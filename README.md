@@ -25,9 +25,8 @@
 
 #### Multimedia and Design
 
-[![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white&labelColor=101010)](#)
 [![OBS Studio](https://img.shields.io/badge/obs%20studio%20-%2331A8FF.svg?&style=for-the-badge&logo=obs%20studio&logoColor=white&labelColor=101010)](#)
-[![Sony Vegas](https://img.shields.io/badge/sony%20vegas%20-%2331A8FF.svg?&style=for-the-badge&logo=sony%20vegas&logoColor=white&labelColor=101010)](#)
+[![Davinci Resolve](https://img.shields.io/static/v1?style=for-the-badge&message=DaVinci+Resolve&color=233A51&logo=DaVinci+Resolve&logoColor=FFFFFF&label=)](#)
 
 #### Version Control
 
