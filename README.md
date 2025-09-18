@@ -25,6 +25,10 @@
 </br>
 [![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](#)
 </br>
+![csharp](https://img.shields.io/badge/CSharp-Learning-white?style=for-the-badge&logo=csharp&logoColor=white)
+</br>
+![cplusplus](https://img.shields.io/badge/C%2B%2B-Learning-white?style=for-the-badge&logo=cplusplus&logoColor=white)
+</br>
 [![C](https://img.shields.io/badge/language-C-lightgrey)](#)
 </br>
 [![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript)](#)
