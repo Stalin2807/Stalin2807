@@ -17,7 +17,7 @@
 #### Programming Languages
 
 
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)](#)
+![oracle](https://img.shields.io/badge/Java-Proficient-orange?style=for-the-badge&logo=Oracle&logoColor=orange)
 </br>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](#)
 </br>
@@ -28,6 +28,13 @@
 [![C](https://img.shields.io/badge/language-C-lightgrey)](#)
 </br>
 [![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript)](#)
+
+#### IDE
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)](#)
+
+[![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)](#)
+
+[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#)
 
 #### Multimedia and Design
 
