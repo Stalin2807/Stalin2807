@@ -21,8 +21,11 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](#)
 </br>
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](#)
+</br>
 [![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](#)
-
+</br>
+[![C](https://img.shields.io/badge/language-C-lightgrey)](#)
+</br>
 #### Multimedia and Design
 
 [![OBS Studio](https://img.shields.io/badge/obs%20studio%20-%2331A8FF.svg?&style=for-the-badge&logo=obs%20studio&logoColor=white&labelColor=101010)](#)
