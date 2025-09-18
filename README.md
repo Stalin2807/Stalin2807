@@ -26,6 +26,7 @@
 </br>
 [![C](https://img.shields.io/badge/language-C-lightgrey)](#)
 </br>
+[![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript)](#)
 #### Multimedia and Design
 
 [![OBS Studio](https://img.shields.io/badge/obs%20studio%20-%2331A8FF.svg?&style=for-the-badge&logo=obs%20studio&logoColor=white&labelColor=101010)](#)
