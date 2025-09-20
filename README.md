@@ -18,21 +18,21 @@
 #### Programming Languages
 
 
-![oracle](https://img.shields.io/badge/Java-Proficient-orange?style=for-the-badge&logo=Oracle&logoColor=orange)
+[![oracle](https://img.shields.io/badge/Java-Proficient-orange?style=for-the-badge&logo=Oracle&logoColor=orange)](#)
 </br>
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](#)
+[![mysql](https://img.shields.io/badge/MySQL-Proficient-orange?style=for-the-badge&logo=Oracle&logoColor=orange)](#)
 </br>
-[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](#)
+[![HTML](https://img.shields.io/badge/HTML-Decent-blue?style=for-the-badge&logo=Oracle&logoColor=orange)](#)
 </br>
-[![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](#)
+[![css3](https://img.shields.io/badge/CSS3-Decent-blue?style=for-the-badge&logo=Oracle&logoColor=orange)](#)
 </br>
-![csharp](https://img.shields.io/badge/CSharp-Learning-white?style=for-the-badge&logo=csharp&logoColor=white)
+[![csharp](https://img.shields.io/badge/csharp-Learning-lightblue?style=for-the-badge&logo=Oracle&logoColor=orange)](#)
 </br>
-![cplusplus](https://img.shields.io/badge/C%2B%2B-Learning-white?style=for-the-badge&logo=cplusplus&logoColor=white)
+[![cplusplus](https://img.shields.io/badge/C++-Learning-lightblue?style=for-the-badge&logo=Oracle&logoColor=orange)](#)
 </br>
-[![C](https://img.shields.io/badge/language-C-lightgrey)](#)
+[![c](https://img.shields.io/badge/C-Proficient-orange?style=for-the-badge&logo=Oracle&logoColor=orange)](#)
 </br>
-[![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript)](#)
+[![Assembly](https://img.shields.io/badge/Assembly-Learning-darkblue?style=for-the-badge&logo=Oracle&logoColor=orange)](#)
 
 #### IDE
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)](#)
