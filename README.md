@@ -10,6 +10,7 @@
 
 - [![Email](https://img.shields.io/badge/email-3DDC84?style=for-the-badge&logo=email&logoColor=white&labelColor=101010)](mailto:Cozy.Spring@protonmail.com)
 
+<a href="https://bsky.app/profile/sprynka.bsky.social"><img src="https://img.shields.io/badge/bluesky-Follow-blue?logo=bluesky" alt="Twitter"></a> 
 
 
 ## Skills:
