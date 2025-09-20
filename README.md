@@ -9,8 +9,8 @@
 ## Contact me:
 
 - [![Email](https://img.shields.io/badge/email-3DDC84?style=for-the-badge&logo=email&logoColor=white&labelColor=101010)](mailto:Cozy.Spring@protonmail.com)
-</br>
-- [!Bluesky](https://img.shields.io/badge/bluesky-Follow-blue?logo=bluesky)](mailto:Cozy.Spring@protonmail.com)
+
+
 
 ## Skills:
 
