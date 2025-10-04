@@ -2,6 +2,8 @@
 <h2 align="center">A passionate Java Developer</h3>
 <h4 align="center">My hobbies include gaming, history and anime</h3>
 
+![til](./dazai.gif)
+
 - I'm a Java and C developer
 - I also mod Hoi4
 - 📫 How to reach me: **Cozy.Spring@protonmail.com**
