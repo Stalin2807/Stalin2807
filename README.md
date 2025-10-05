@@ -54,8 +54,10 @@
 </br>
 [![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=whit&logoColor=white&labelColor=101010)](#)
 
-![Stalin2807 github stats](https://github-readme-stats.vercel.app/api?username=Stalin2807&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stalin2807&layout=compact&theme=dracula)
 
-![Stalin2807 github streak](https://github-readme-streak-stats.herokuapp.com/?user=Stalin2807&theme=radical&include_all_commits=true&count_private=true)
+![Stalin2807 github stats](https://github-readme-stats.vercel.app/api?username=Stalin2807&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
+
+![Stalin2807 github streak](https://github-readme-streak-stats.herokuapp.com/?user=Stalin2807&theme=dracula&include_all_commits=true&count_private=true)
 
  <div>
