@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I am <code style="color : magenta">Spring</code> </h1>
+<h1 align="center">Hello, I am :cherry_blossom:<code style="color : magenta">Spring</code>:cherry_blossom: </h1>
 <h2 align="center">A passionate Java Developer</h3>
 <h4 align="center">My hobbies include gaming, history and anime</h3>
 
