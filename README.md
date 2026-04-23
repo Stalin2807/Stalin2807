@@ -4,7 +4,7 @@
 
 ![til](./dazai.gif)
 
-- I'm a Java and C developer
+- I'm a Java, Python and C developer
 - I also mod Hoi4
 - 📫 How to reach me: **Cozy.Spring@protonmail.com**
 
